@@ -1,0 +1,41 @@
+.landbody {
+  background-color: rgb(246, 246, 126);
+  text-align: center;
+  padding: 16px;
+  border: 2px solid grey;
+}
+
+.aboutbody {
+  background-color: rgb(141, 250, 244);
+  text-align: center;
+  padding: 25px;
+  border: 2px solid grey;
+}
+
+.contactbody {
+  background-color: rgb(250, 196, 196);
+  text-align: center;
+  padding: 25px;
+  border: 2px solid grey;
+}
+
+.navbar-brand {
+  font-weight: 900;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+}
+
+tr {
+  border: 2px solid rgb(157, 50, 245);
+}
+
+.navbar {
+  margin-top: 16px;
+}
+
+.table {
+  margin-top: 16px;
+}
