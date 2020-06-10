@@ -24,7 +24,7 @@ class Contact extends React.Component {
               <tr>
                 <th scope="row">2</th>
                 <td>Cell</td>
-                <td>072 683 3268/ 082 330 2752/ 073 000 5791</td>
+                <td>072 683 3268/ 073 000 5791</td>
               </tr>
               <tr>
                 <th scope="row">3</th>
