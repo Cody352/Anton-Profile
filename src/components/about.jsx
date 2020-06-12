@@ -10,7 +10,7 @@ class About extends React.Component {
           <img src="https://scontent-jnb1-1.xx.fbcdn.net/v/t1.0-9/p960x960/32687938_1057431251074265_1562992629702983680_o.jpg?_nc_cat=106&_nc_sid=7aed08&_nc_eui2=AeHf1VW-CkBcSf1SefOkWmRCHIy-rD6jddUcjL6sPqN11QXhZPbYNbfmcbGRgH7yPQp_YIO8nOOxxGCI5_gNVi1R&_nc_ohc=AFFcErBvrb0AX84Wki_&_nc_ht=scontent-jnb1-1.xx&_nc_tp=6&oh=f45801feb7f7c9d70287c60c41be5f56&oe=5EE925BB"></img>
           <br></br>
           <table className="table">
-            <thead className="thead-dark">
+            <thead>
               <tr>
                 <th scope="col">#</th>
                 <th scope="col">Description</th>

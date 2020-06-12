@@ -8,7 +8,7 @@ class Contact extends React.Component {
           <h2>Where to contact me.</h2>
           <br />
           <table className="table">
-            <thead className="thead-dark">
+            <thead>
               <tr>
                 <th scope="col">#</th>
                 <th scope="col">Contact Type</th>
