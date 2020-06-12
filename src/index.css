@@ -2,6 +2,7 @@
   background-color: rgb(246, 246, 126);
   text-align: center;
   padding: 16px;
+  border-collapse: collapse;
   border: 2px solid grey;
 }
 
@@ -9,13 +10,11 @@
   background-color: rgb(141, 250, 244);
   text-align: center;
   padding: 25px;
-  border: 2px solid grey;
 }
 
 .contactbody {
   background-color: rgb(250, 196, 196);
   padding: 25px;
-  border: 2px solid grey;
 }
 
 .navbar-brand {
@@ -25,10 +24,6 @@
 img {
   width: 300px;
   height: 300px;
-}
-
-tr {
-  border: 2px solid rgb(157, 50, 245);
 }
 
 .navbar {
