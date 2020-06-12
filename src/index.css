@@ -10,11 +10,15 @@
   background-color: rgb(141, 250, 244);
   text-align: center;
   padding: 25px;
+  border-collapse: collapse;
+  border: 2px solid grey;
 }
 
 .contactbody {
   background-color: rgb(250, 196, 196);
   padding: 25px;
+  border-collapse: collapse;
+  border: 2px solid grey;
 }
 
 .navbar-brand {
@@ -32,8 +36,22 @@ img {
 
 .table {
   margin-top: 16px;
+  width: 80%;
 }
 
 .container {
   width: 100%;
+}
+
+thead {
+  text-align: center;
+  background-color: rgb(253, 142, 78);
+}
+
+tr {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
 }
