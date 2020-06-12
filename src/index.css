@@ -33,3 +33,7 @@ img {
 .table {
   margin-top: 16px;
 }
+
+.container {
+  width: 100%;
+}
